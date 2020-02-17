@@ -18,12 +18,12 @@
 - [오큰수](https://gist.github.com/ycj1212/ddc01b5c8e5be026472106142cba767d)
 - [오등큰수](https://gist.github.com/ycj1212/6586f73e463634d1441e229d67a13886)  
 \
-- 후위 표기식2
-- 후위 표기식
-- 알파벳 개수
-- 알파벳 찾기
-- 문자열 분석
-- 단어 길이 재기
-- ROT13
-- 네 수
-- 접미사 배열
+- [후위 표기식2](https://gist.github.com/ycj1212/c16aafd24cde58bf212d5454f2ce37e3)
+- [후위 표기식](https://gist.github.com/ycj1212/138fa1a186af29c6ebcaf1c2ec280d51)
+- [알파벳 개수](https://gist.github.com/ycj1212/44450c5df3e48539ee51bc3b8e281520)
+- [알파벳 찾기](https://gist.github.com/ycj1212/395e8ed383e547ad0488cc2ccf2680c2)
+- [문자열 분석](https://gist.github.com/ycj1212/042bc9204655ad49c543aaca99ff6d3b)
+- [단어 길이 재기](https://gist.github.com/ycj1212/4ab8729bb09bd626c1e4f2589949c42e)
+- [ROT13](https://gist.github.com/ycj1212/a34df9975b3dbdca269c9e5d196f32cc)
+- [네 수](https://gist.github.com/ycj1212/aa2d5a4d083dbb00ae4904e17cc22546)
+- [접미사 배열](https://gist.github.com/ycj1212/79816511cebc14cb2b594453e166a33d)
