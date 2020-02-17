@@ -27,3 +27,27 @@
 - [ROT13](https://gist.github.com/ycj1212/a34df9975b3dbdca269c9e5d196f32cc)
 - [네 수](https://gist.github.com/ycj1212/aa2d5a4d083dbb00ae4904e17cc22546)
 - [접미사 배열](https://gist.github.com/ycj1212/79816511cebc14cb2b594453e166a33d)
+
+### 수학
+
+- 나머지
+- 최대공약수와 최소공배수
+- 최소공배수
+- 소수 찾기
+- 소수 구하기
+- 골드바흐의 추측
+- 팩토리얼
+- 팩토리얼 0의 개수
+- 조합 0의 개수  
+/
+- GCD 합
+- 숨바꼭질 6
+- 2진수 8진수
+- 8진수 2진수
+- -2진수
+- 골드바흐 파티션  
+/
+- 진법 변환 2
+- 진법 변환
+- Base Conversion
+- 소인수분해
