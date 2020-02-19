@@ -30,12 +30,12 @@
 
 ### 수학
 
-- 나머지
-- 최대공약수와 최소공배수
-- 최소공배수
-- 소수 찾기
-- 소수 구하기
-- 골드바흐의 추측
+- [나머지](https://gist.github.com/ycj1212/d38017fa0316b58e37c9278dd8b7b9a8)
+- [최대공약수와 최소공배수](https://gist.github.com/ycj1212/1e2740d7629573e7b101e0c7f757c744)
+- [최소공배수](https://gist.github.com/ycj1212/d17084735c4eb79570a0ccfc55009c6f)
+- [소수 찾기](https://gist.github.com/ycj1212/c1754da0ea2e01eaca9de4f89ab31c95)
+- [소수 구하기](https://gist.github.com/ycj1212/ac1d79fed38e7b49a9c943b98af4116c)
+- [골드바흐의 추측](https://gist.github.com/ycj1212/9d514d9b075d19788f8419ba9f71751d)
 - 팩토리얼
 - 팩토리얼 0의 개수
 - 조합 0의 개수  
