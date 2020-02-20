@@ -36,8 +36,8 @@
 - [소수 찾기](https://gist.github.com/ycj1212/c1754da0ea2e01eaca9de4f89ab31c95)
 - [소수 구하기](https://gist.github.com/ycj1212/ac1d79fed38e7b49a9c943b98af4116c)
 - [골드바흐의 추측](https://gist.github.com/ycj1212/9d514d9b075d19788f8419ba9f71751d)
-- 팩토리얼
-- 팩토리얼 0의 개수
+- [팩토리얼](https://gist.github.com/ycj1212/7a9299ebd68996b0910822dbb5d33c4d)
+- [팩토리얼 0의 개수](https://gist.github.com/ycj1212/3e283d82ec15daa294fa3680821bcb61)
 - 조합 0의 개수  
 /
 - GCD 합
