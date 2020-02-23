@@ -38,10 +38,10 @@
 - [골드바흐의 추측](https://gist.github.com/ycj1212/9d514d9b075d19788f8419ba9f71751d)
 - [팩토리얼](https://gist.github.com/ycj1212/7a9299ebd68996b0910822dbb5d33c4d)
 - [팩토리얼 0의 개수](https://gist.github.com/ycj1212/3e283d82ec15daa294fa3680821bcb61)
-- 조합 0의 개수  
+- [조합 0의 개수](https://gist.github.com/ycj1212/cb35c0836965a900da77a199bec2bc31) 
 /
-- GCD 합
-- 숨바꼭질 6
+- [GCD 합](https://gist.github.com/ycj1212/680ca8a83cec61a0235ec62454a60d36)
+- [숨바꼭질 6](https://gist.github.com/ycj1212/b64b859e6462873f7964c86bfb8c5c67)
 - 2진수 8진수
 - 8진수 2진수
 - -2진수
