@@ -28,7 +28,7 @@
 - [네 수](https://gist.github.com/ycj1212/aa2d5a4d083dbb00ae4904e17cc22546)
 - [접미사 배열](https://gist.github.com/ycj1212/79816511cebc14cb2b594453e166a33d)
 
-### 수학
+### [수학](./300.md)
 
 - [나머지](https://gist.github.com/ycj1212/d38017fa0316b58e37c9278dd8b7b9a8)
 - [최대공약수와 최소공배수](https://gist.github.com/ycj1212/1e2740d7629573e7b101e0c7f757c744)
