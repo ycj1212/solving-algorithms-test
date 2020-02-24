@@ -42,12 +42,12 @@
 /
 - [GCD 합](https://gist.github.com/ycj1212/680ca8a83cec61a0235ec62454a60d36)
 - [숨바꼭질 6](https://gist.github.com/ycj1212/b64b859e6462873f7964c86bfb8c5c67)
-- 2진수 8진수
-- 8진수 2진수
-- -2진수
-- 골드바흐 파티션  
+- [2진수 8진수](https://gist.github.com/ycj1212/77b2f75b1565928faa3d0426045caadd)
+- [8진수 2진수](https://gist.github.com/ycj1212/8597cfb9465b98e9680eebeab9987132)
+- [-2진수](https://gist.github.com/ycj1212/4cd716a712ef8fa0a476c3e9c9560a22)
+- [골드바흐 파티션](https://gist.github.com/ycj1212/749532d05061768f9b91afb4d8f3d313)
 /
-- 진법 변환 2
-- 진법 변환
-- Base Conversion
-- 소인수분해
+- [진법 변환 2](https://gist.github.com/ycj1212/a3f6b722048eb4e67516ddc5b4e67402)
+- [진법 변환](https://gist.github.com/ycj1212/a03aac0ef787fffe3be171dd29c7f57b)
+- [Base Conversion](https://gist.github.com/ycj1212/5349f7b96a25b949c6d8d6b499e3bca7)
+- [소인수분해](https://gist.github.com/ycj1212/f152835e9a5ad00c0a703ed2ef4a07d7)
