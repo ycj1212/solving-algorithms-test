@@ -52,9 +52,9 @@
 - [Base Conversion](https://gist.github.com/ycj1212/5349f7b96a25b949c6d8d6b499e3bca7)
 - [소인수분해](https://gist.github.com/ycj1212/f152835e9a5ad00c0a703ed2ef4a07d7)
 
-### 다이나믹 프로그래밍
+### [다이나믹 프로그래밍](./400.md)
 
-- [1로 만들기]()
+- [1로 만들기](https://gist.github.com/ycj1212/8812961a3508efbaa83f005de3f8a5ee)
 - [2×n 타일링]()
 - [2×n 타일링 2]()
 - [1, 2, 3 더하기]()
