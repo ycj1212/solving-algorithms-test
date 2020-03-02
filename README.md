@@ -55,8 +55,8 @@
 ### [다이나믹 프로그래밍](./400.md)
 
 - [1로 만들기](https://gist.github.com/ycj1212/8812961a3508efbaa83f005de3f8a5ee)
-- [2×n 타일링]()
-- [2×n 타일링 2]()
+- [2×n 타일링](https://gist.github.com/ycj1212/458a3939e6c69052cab0d224585e6bec)
+- [2×n 타일링 2](https://gist.github.com/ycj1212/093eba6fcacbe6e98dbf980d86729228)
 - [1, 2, 3 더하기]()
 - [카드 구매하기]()
 - [카드 구매하기 2]()
