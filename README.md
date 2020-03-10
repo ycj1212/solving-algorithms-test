@@ -57,9 +57,15 @@
 - [1로 만들기](https://gist.github.com/ycj1212/8812961a3508efbaa83f005de3f8a5ee)
 - [2×n 타일링](https://gist.github.com/ycj1212/458a3939e6c69052cab0d224585e6bec)
 - [2×n 타일링 2](https://gist.github.com/ycj1212/093eba6fcacbe6e98dbf980d86729228)
+<<<<<<< HEAD
 - [1, 2, 3 더하기](https://gist.github.com/ycj1212/583c1cf6e76660c2e2887b8f634e417c)
 - [카드 구매하기](https://gist.github.com/ycj1212/2d3e7f6ba7a05054e8120422492c6481)
 - [카드 구매하기 2](https://gist.github.com/ycj1212/c673d13d3580fc5e8b75e8e2714f562a)
+=======
+- [1, 2, 3 더하기]()
+- [카드 구매하기]()
+- [카드 구매하기 2]()
+>>>>>>> 734f7fe24f2d7bcfbd750a2706788f04d869b9ef
 - [1, 2, 3 더하기 5]()
 - [쉬운 계단 수]()
 - [이친수]()
