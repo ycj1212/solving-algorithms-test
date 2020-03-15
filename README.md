@@ -60,7 +60,7 @@
 - [1, 2, 3 더하기](https://gist.github.com/ycj1212/583c1cf6e76660c2e2887b8f634e417c)
 - [카드 구매하기](https://gist.github.com/ycj1212/2d3e7f6ba7a05054e8120422492c6481)
 - [카드 구매하기 2](https://gist.github.com/ycj1212/c673d13d3580fc5e8b75e8e2714f562a)
-- [1, 2, 3 더하기 5]()
+- [1, 2, 3 더하기 5](https://gist.github.com/ycj1212/cc96c38c5ff74f823ed58cb4e168a573)
 - [쉬운 계단 수]()
 - [이친수]()
 - [가장 긴 증가하는 부분 수열]()
