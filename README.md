@@ -62,7 +62,7 @@
 - [카드 구매하기 2](https://gist.github.com/ycj1212/c673d13d3580fc5e8b75e8e2714f562a)
 - [1, 2, 3 더하기 5](https://gist.github.com/ycj1212/cc96c38c5ff74f823ed58cb4e168a573)
 - [쉬운 계단 수](https://gist.github.com/ycj1212/c4ceab00f03afce816a60451193d6a20)
-- [이친수]()
+- [이친수](https://gist.github.com/ycj1212/8f1209e39928545476bbb6afb32bc678)
 - [가장 긴 증가하는 부분 수열]()
 - [가장 긴 증가하는 부분 수열 4]()
 - [연속합]()
@@ -88,12 +88,12 @@
 
 ### [브루트 포스](./500.md)
 
-- [일곱 난쟁이]()
-- [사탕 게임]()
+- [일곱 난쟁이](https://gist.github.com/ycj1212/1e227b923c7880f3d37ba62e4fd598ad)
+- [사탕 게임](https://gist.github.com/ycj1212/fbf88db3c1133785f9af88379175432f)
 - [날짜 계산]()
 - [리모컨]()
-- [테트로미노]()
-- [카잉 달력]()
+- [테트로미노](https://gist.github.com/ycj1212/6f6fbdf1dbcaebbee17a5b45bec3e1fc)
+- [카잉 달력](https://gist.github.com/ycj1212/05b3d77190256d6b41a9c4f8552c976c)
 - [수 이어 쓰기 1]()
 - [1, 2, 3 더하기]()
 
