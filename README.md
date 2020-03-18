@@ -63,9 +63,9 @@
 - [1, 2, 3 더하기 5](https://gist.github.com/ycj1212/cc96c38c5ff74f823ed58cb4e168a573)
 - [쉬운 계단 수](https://gist.github.com/ycj1212/c4ceab00f03afce816a60451193d6a20)
 - [이친수](https://gist.github.com/ycj1212/8f1209e39928545476bbb6afb32bc678)
-- [가장 긴 증가하는 부분 수열]()
-- [가장 긴 증가하는 부분 수열 4]()
-- [연속합]()
+- [가장 긴 증가하는 부분 수열](https://gist.github.com/ycj1212/408e0a13d0458ab03fcc07b20f20cc05)
+- [가장 긴 증가하는 부분 수열 4](https://gist.github.com/ycj1212/dfb5901cba2ec2fa075fd84581d1f7f2)
+- [연속합](https://gist.github.com/ycj1212/70ea2072d00221c58992c8a3e5a4d26f)
 - [제곱수의 합]()
 - [합분해]()  
 \
