@@ -117,7 +117,7 @@
 - [다음 순열](https://gist.github.com/ycj1212/88ce764d70c6100dadf2e416beda41e6)
 - [이전 순열]()
 - [모든 순열]()
-- [차이를 최대로]()
+- [차이를 최대로](https://gist.github.com/ycj1212/903a1cb4fb7c85532ff0c1608ad6135d)
 - [외판원 순회 2]()
 - [로또]()
 
