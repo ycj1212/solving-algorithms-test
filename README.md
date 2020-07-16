@@ -236,7 +236,7 @@
 ### 그리디 알고리즘
 
 - [동전 0](https://gist.github.com/ycj1212/d10a7eefff9ffe0b80447600ca8e5eb9)
-- [회의실배정]()
+- [회의실배정](https://gist.github.com/ycj1212/770252c4d785c766709a8221f745e77b)
 - [ATM]()
 - [행렬]()
 - [전구와 스위치]()
