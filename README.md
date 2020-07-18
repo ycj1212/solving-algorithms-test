@@ -237,8 +237,8 @@
 
 - [동전 0](https://gist.github.com/ycj1212/d10a7eefff9ffe0b80447600ca8e5eb9)
 - [회의실배정](https://gist.github.com/ycj1212/770252c4d785c766709a8221f745e77b)
-- [ATM]()
-- [행렬]()
+- [ATM](https://gist.github.com/ycj1212/f809190191b21a2f660378f99a92ad5f)
+- [행렬](https://gist.github.com/ycj1212/f113c1351fe81bf401d5ab732025a0b4)
 - [전구와 스위치]()
 - [동전 뒤집기]()
 - [보석 도둑]()
