@@ -239,7 +239,7 @@
 - [회의실배정](https://gist.github.com/ycj1212/770252c4d785c766709a8221f745e77b)
 - [ATM](https://gist.github.com/ycj1212/f809190191b21a2f660378f99a92ad5f)
 - [행렬](https://gist.github.com/ycj1212/f113c1351fe81bf401d5ab732025a0b4)
-- [전구와 스위치]()
+- [전구와 스위치](https://gist.github.com/ycj1212/6ac1d45b9c7a20346161c3e6d7f8aa89)
 - [동전 뒤집기]()
 - [보석 도둑]()
 - [순회강연]()
