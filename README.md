@@ -263,7 +263,7 @@
 - [숫자 카드 2](https://gist.github.com/ycj1212/7f4aed33db21772b4db7ef24757ce2b8)
 - [배열 합치기]()  
 \
-- [종이의 개수]()
+- [종이의 개수](https://gist.github.com/ycj1212/3af42f7a77a91c946965737c1dc9ccd0)
 - [하노이 탑 이동 순서]()
 - [트리의 순회]()
 - [Z]()
