@@ -266,7 +266,7 @@
 - [종이의 개수](https://gist.github.com/ycj1212/3af42f7a77a91c946965737c1dc9ccd0)
 - [하노이 탑 이동 순서]()
 - [트리의 순회]()
-- [Z]()
+- [Z](https://gist.github.com/ycj1212/dac8ebff7cdab7486dd33542bfd878ba)
 - [사분면](https://gist.github.com/ycj1212/364ca92bef96b7871c69e39f7c68ef51)
 - [별 찍기 - 10]()
 - [별 찍기 - 11]()
