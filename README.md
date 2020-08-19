@@ -278,9 +278,9 @@
 ### 정렬
 
 - [수 정렬하기 2](https://gist.github.com/ycj1212/28766ed0d220bcac187e2163b3ddf04d)
-- [좌표 정렬하기]()
-- [좌표 정렬하기 2]()
-- [나이순 정렬]()
+- [좌표 정렬하기](https://gist.github.com/ycj1212/b7b5d398abbd3e2cd00886217f3baa22)
+- [좌표 정렬하기 2](https://gist.github.com/ycj1212/fe6a8f4ae9bf835b95204c1c835e8b2c)
+- [나이순 정렬](https://gist.github.com/ycj1212/d95c5dca57dcf2a6c827a58e84455030)
 - [국영수]()
 - [수 정렬하기 3]()
 - [카드]()
