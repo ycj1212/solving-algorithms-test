@@ -268,7 +268,7 @@
 - [트리의 순회]()
 - [Z](https://gist.github.com/ycj1212/dac8ebff7cdab7486dd33542bfd878ba)
 - [사분면](https://gist.github.com/ycj1212/364ca92bef96b7871c69e39f7c68ef51)
-- [별 찍기 - 10]()
+- [별 찍기 - 10](https://gist.github.com/ycj1212/30fc7e143e0cce4c2aef2dc13de7ab9f)
 - [별 찍기 - 11]()
 - [버블 소트]()  
 \
@@ -277,7 +277,7 @@
 
 ### 정렬
 
-- [수 정렬하기 2]()
+- [수 정렬하기 2](https://gist.github.com/ycj1212/28766ed0d220bcac187e2163b3ddf04d)
 - [좌표 정렬하기]()
 - [좌표 정렬하기 2]()
 - [나이순 정렬]()
