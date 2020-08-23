@@ -268,12 +268,12 @@
 - [트리의 순회]()
 - [Z](https://gist.github.com/ycj1212/dac8ebff7cdab7486dd33542bfd878ba)
 - [사분면](https://gist.github.com/ycj1212/364ca92bef96b7871c69e39f7c68ef51)
-- [별 찍기 - 10]()
+- [별 찍기 - 10](https://gist.github.com/ycj1212/30fc7e143e0cce4c2aef2dc13de7ab9f)
 - [별 찍기 - 11]()
 - [버블 소트]()  
 \
 - [스카이라인]()
-- [가장 가까운 두 점]()
+- [가장 가까운 두 점](https://gist.github.com/ycj1212/f54bfeaa4023489692e5396ba1b4db08)
 
 ### 정렬
 
