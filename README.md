@@ -282,8 +282,8 @@
 - [좌표 정렬하기 2](https://gist.github.com/ycj1212/fe6a8f4ae9bf835b95204c1c835e8b2c)
 - [나이순 정렬](https://gist.github.com/ycj1212/d95c5dca57dcf2a6c827a58e84455030)
 - [국영수](https://gist.github.com/ycj1212/6893f629dd22b9b4c0c512b9df087d0b)
-- [수 정렬하기 3]()
-- [카드]()
+- [수 정렬하기 3](https://gist.github.com/ycj1212/418869e93e9662564072ccb88ae8a831)
+- [카드](https://gist.github.com/ycj1212/122addfd012acd275e52087b9cf33706)
 - [버블 소트]()
 
 ### 이분 탐색
