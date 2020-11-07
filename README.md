@@ -290,7 +290,7 @@
 
 - [수 이어 쓰기 2](https://gist.github.com/ycj1212/2b4db48f6e1689bd4bc72faea2bbfceb)
 - [랜선 자르기](https://gist.github.com/ycj1212/9fa300f177d8157fe980c63d7d58b1a4)
-- [나무 자르기]()
+- [나무 자르기](https://gist.github.com/ycj1212/55f1eaa3522fde1764c275b99ad7f21c)
 - [공유기 설치]()
 - [중량제한]()
 - [사다리]()
