@@ -1,15 +1,5 @@
 # 알고리즘 문제 풀기
 
-## 프로그래머스
-
-### Level 2
-
-#### 스택/큐
-
-- [프린터](https://gist.github.com/ycj1212/2d2320d88405f0739b866804928519fb)
-
----
-
 ## BOJ
 
 ### 자료구조
@@ -61,6 +51,16 @@
 - [진법 변환](https://gist.github.com/ycj1212/a03aac0ef787fffe3be171dd29c7f57b)
 - [Base Conversion](https://gist.github.com/ycj1212/5349f7b96a25b949c6d8d6b499e3bca7)
 - [소인수분해](https://gist.github.com/ycj1212/f152835e9a5ad00c0a703ed2ef4a07d7)
+/
+- [나머지](https://gist.github.com/ycj1212/d38017fa0316b58e37c9278dd8b7b9a8)
+- [1](https://gist.github.com/ycj1212/1bd698b268517a9efb8681fd62a40ca7)
+- [약수](https://gist.github.com/ycj1212/9380fd738988133d7015f85f2bb79789)
+- [약수의 합 2]()
+- [약수의 합]()
+- [최대공약수와 최소공배수]()
+- [소수 찾기]()
+- [소수 구하기]()
+- [골드바흐의 추측]()
 
 ### [다이나믹 프로그래밍](./400.md)
 
