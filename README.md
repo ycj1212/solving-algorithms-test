@@ -57,10 +57,10 @@
 - [약수](https://gist.github.com/ycj1212/9380fd738988133d7015f85f2bb79789)
 - [약수의 합 2](https://gist.github.com/ycj1212/a87ec241883515e04e5afa104b2a007a)
 - [약수의 합](https://gist.github.com/ycj1212/128b789da0ceacb4cf8452b0ac978e68)
-- [최대공약수와 최소공배수]()
-- [소수 찾기]()
-- [소수 구하기]()
-- [골드바흐의 추측]()
+- [최대공약수와 최소공배수](https://gist.github.com/ycj1212/1e2740d7629573e7b101e0c7f757c744)
+- [소수 찾기](https://gist.github.com/ycj1212/c1754da0ea2e01eaca9de4f89ab31c95)
+- [소수 구하기](https://gist.github.com/ycj1212/ac1d79fed38e7b49a9c943b98af4116c)
+- [골드바흐의 추측](https://gist.github.com/ycj1212/9d514d9b075d19788f8419ba9f71751d)
 
 ### [다이나믹 프로그래밍](./400.md)
 
